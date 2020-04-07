@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-print("Dzień dobry")
+print("Dzień dobry mr Robot")
 print("Podaj swoje imię: ")
 imie = input()
 print("Ile masz lat?")
